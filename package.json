@@ -1,0 +1,27 @@
+{
+  "name": "igshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "fiber"
+  ],
+  "author": "yiczhao",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "requirejs": "^2.3.3",
+    "vue": "1.0.21"
+  }
+}
